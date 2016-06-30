@@ -1,3 +1,3 @@
 # istrategylabs.github.io
 
-Redirects to <https://github.com/istrategylabs>
+Redirects to <https://sudo.isl.co>
